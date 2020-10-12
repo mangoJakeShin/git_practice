@@ -1,0 +1,37 @@
+  58  git status
+   59  git add a.txt
+   60  git status
+   61  git rm --cached a.txt
+   62  git status
+   63  git add a.txt
+   64  git status
+   65  git commit
+   66  git status
+   67  git log
+   68  git add a.txt
+   69  git status
+   70  notepad a.txt
+   71  git status
+   72  git add a.txt
+   73  git commit
+   74  git log
+   75  pwd
+   76  git status
+   77  git restore a.txt
+   78  git status
+   79  git add bcd.txt
+   80  git commit
+   81  git log
+   82  ls -l
+   83  git status
+   84  git add/rm bcd.txt
+   85  git add*
+   86  git add *
+   87  git status
+   88  git commit -m "changed file name -> git read as file deleted and new file added"
+   89  git log
+   90  git status
+   91  git commit
+   92  git commit
+   93  git commit -a
+   94  git log
