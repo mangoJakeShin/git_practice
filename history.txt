@@ -35,3 +35,128 @@
    92  git commit
    93  git commit -a
    94  git log
+98  cd
+   99  mkdir gittest
+  100  cd gittest
+  101  git init
+  102  notepad a.txt
+  103  git commit
+  104  git add a.txt
+  105  git commit
+  106  notepad b.txt
+  107  git add b.txt
+  108  git commit
+  109  notepad b.txt
+  110  git add b.txt
+  111  git commit
+  112  git status
+  113  git log
+  114  ls -l
+  115  notepad b.txt
+  116  nano c.xt
+  117  nano c.txt
+  118  cat c.txt
+  119  cat a.txt
+  120  cat b.txt
+  121  git commit
+  122  git add c.txt
+  123  git commit
+  124  git log
+  125  nano d.txt
+  126  git status
+  127  nano c.txt
+  128  git status
+  129  git add .
+  130  git status
+  131  git commit
+  132  git status
+  133  git show
+  134  git show a.txt
+  135  git show b.txt
+  136  git show c.txt
+  137  nano c.txt
+  138  git show d.txt
+  139  git remote add origin https://github.com/mangoJakeShin/mangoworkspace.git
+  140  git branch -M main
+  141  git push -u origin main
+  142  cd
+  143  cd mygit
+  144  git branch
+  145  add branch test
+  146  git add branch test
+  147  gi bran
+  148  git branch
+  149  git branch testing
+  150  git branch
+  151  git checkout testing
+  152  git branch
+  153  ls
+  154  nano aa.txt
+  155  ls
+  156  nano c.txt
+  157  ls
+  158  ls -a
+  159  ls -l
+  160  git status
+  161  git add c.txt history.txt
+  162  git commit
+  163  git checkout master
+  164  git log
+  165  git history
+  166  history
+  167  notepad history.txt
+  168  ls -a
+  169  cd
+  170  cd gittest
+  171  ls -a
+  172  cd
+  173  ls
+  174  ls -a
+  175  cd mygit
+  176  ls-a
+  177  ls -a
+  178  nano c.txt
+  179  cd
+  180  cd gittest
+  181  ls -a
+  182  cd
+  183  git log
+  184  cd mygit
+  185  git log
+  186  cd
+  187  cd test
+  188  git log
+  189  cd
+  190  cd -a
+  191  ls -a
+  192  ls dir
+  193  ls -dir
+  194  cd
+  195  cd mygit
+  196  git branch
+  197  git merge testing
+  198  git log
+  199  notepad history.txt
+  200  git status
+  201  git log
+  202  git branch testing
+  203  git branch
+  204  git branch testing2
+  205  add ad.txt
+  206  nano ad.txt
+  207  git checkout testing2
+  208  nano addd.txt
+  209  log
+  210  git log
+  211  git commit
+  212  git add .
+  213  git commit
+  214  git checkout master
+  215  git add .
+  216  git status
+  217  git log
+  218  git merge testing2
+  219  git log
+  220  git branch
+  221  notepad history.txt
+  222  history
